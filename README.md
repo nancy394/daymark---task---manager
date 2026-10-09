@@ -2,8 +2,8 @@
 ## Team
 
 - Nancy V - Developer & Tester
-- Nithika Shree. S - Scrum Master  
-- Kirushika T M - Manager
+- Nithika Shree. S - Manager  
+- Kirushika T M - Scrum Master
 
 ## How to run
 pip install -r requirements.txt
