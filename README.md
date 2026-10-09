@@ -1,5 +1,15 @@
 # Daymark Task Manager — HTML, CSS, JavaScript, and Python
+## Team
 
+- Nancy V - Developer & Tester
+- Nithika Shree. S - Scrum Master  
+- Kirushika T M - Manager
+
+## How to run
+pip install -r requirements.txt
+python app.py
+
+---
 This is the plain web-technology edition of Daymark. It uses a Flask/Python backend, regular HTML templates, CSS, browser JavaScript, and a local SQLite database. It does not require React, TypeScript, Node.js, or PostgreSQL.
 
 ## Features
